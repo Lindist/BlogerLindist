@@ -121,8 +121,8 @@ comments:
   giscus:
     repo: Lindist/BlogerLindist # <gh-username>/<repo>
     repo_id: R_kgDOP9ojhQ
-    category: General
-    category_id: DIC_kwDOP9ojhc4CwhCR
+    category: Comments
+    category_id: DIC_kwDOP9ojhc4CwzW_
     mapping: pathname # optional, default to 'pathname'
     strict: 0 # optional, default to '0'
     input_position: bottom # optional, default to 'bottom'
