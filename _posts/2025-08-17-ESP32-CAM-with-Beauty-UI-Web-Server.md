@@ -1,7 +1,7 @@
 ---
 title: ESP32 CAM with Beauty UI Web Server (Module ov2640)
 description: The ESP32 CAM can usually be used in conjunction with the Arduino IDE to upload code and run the program's commands.
-date: 2025-08-17 00:2:00 +0700
+date: 2025-08-17 00:02:00 +0700
 author: Cathoa
 categories: [Blogging, Demo]
 tags: [ESP32]
@@ -63,7 +63,7 @@ _or pass connecting to Serial Monitor_
 _Copy IPAdress for ESP32 and Past_
 
 When copy then paste IP Address ESP32 that put at Web Browser
-> "**_ถ้าจะให้แสดงผลในมือถือให้เชื่อมต่อฮอตสปอนที่เปิดไว้ด้วย_**"
+> "**_if display in mobile turn on hotspot_**"
 {: .prompt-info }
 
 ## All New UI Picture Model Ver. Thai
